@@ -232,15 +232,21 @@ body {
 
 }
 
-.social-media a{
-    display: inline;
-    margin: auto;
-    
-}
 .view-button{
     display: none;
 }
+.social-media{
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
 
+}
+.facebook-icon{
+    color: white;
+    padding: 5px;
+    font-size: 30px;
+}
 
 
 
